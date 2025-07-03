@@ -30,7 +30,7 @@ Lista de redes sociais favoritas.
 *   **URL do Endpoint:**
     [`https://sergiocalazans.github.io/api-redes-sociais/data/redes-favoritas.json`](https://sergiocalazans.github.io/api-redes-sociais/data/redes-favoritas.json)
 
-### 👥 Dados da pesquisa
+### 👥 Dados da Pesquisa
 Lista dos dados extraídos da pesquisa.
 
 *   **URL do Endpoint:**
