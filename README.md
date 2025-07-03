@@ -43,12 +43,6 @@ Para adicionar ou atualizar dados:
 2.  Edite os arquivos JSON na pasta `/data`.
 3.  Abra um Pull Request com suas alterações.
 
-Com certeza! Adicionar a informação da licença é uma ótima prática.
-
-Aqui está o trecho formatado em Markdown para você adicionar ao seu `README.md`. Ele explica de forma clara o que a Licença MIT permite e linka para o arquivo de licença no seu repositório.
-
-Você pode adicionar este trecho no final do `README.md` que gerei anteriormente.
-
 ## 📜 Licença
 
 Este projeto está licenciado sob a **Licença MIT**.
